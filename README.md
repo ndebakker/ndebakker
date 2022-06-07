@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ndebakker
-- 👀 I’m interested in front-end webdevelopement
+- 👀 I’m interested in front-end webdevelopement, branding and ux/ui
 - 🌱 I’m currently learning wordpress, SCSS (GULP, SASS) 
 - 📫 How to reach me nynkedebakker02@gmail.com
 
